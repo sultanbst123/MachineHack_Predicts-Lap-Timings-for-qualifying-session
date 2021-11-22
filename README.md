@@ -19,3 +19,4 @@ untuk lebih lanjut seilahkan kunjungi notebook ini:
 
 ## Dataset & Information
 
+https://machinehack.com/hackathons/dare_in_reality_hackathon/overview
