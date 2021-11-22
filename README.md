@@ -14,8 +14,9 @@ https://github.com/sultanbst123/MachineHack-Dare_in_reality/blob/main/Dare_in_re
 
 mengunakan 2 boosting tree(LGBM, Catboat), karena bisa menangkap data ber-type category. 
 
-untuk lebih lanjut seilahkan kunjungi notebook ini: 
+untuk lebih lanjut seilahkan kunjungi notebook ini:
 
+https://github.com/sultanbst123/MachineHack-Dare_in_reality/blob/main/Dare_in_reality.ipynb
 
 ## Dataset & Information
 
