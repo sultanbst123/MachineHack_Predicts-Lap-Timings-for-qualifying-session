@@ -1,4 +1,4 @@
-# MachineHack-Dare_in_reality
+# Dare in Reality Hackathon 2021: Predicts Lap Timings for qualifying session
 
 dalam Hackathon ini, seleuruh peserta membangun model ml yang memprediksi waktu putaran(lap_time)pembalap Envision Racing untuk sesi kualifikasi yang sangat penting yang menentukan di posisi mana mereka memulai balapan. 
 
